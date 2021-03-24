@@ -27,4 +27,4 @@
 
 7. 重新运行
 
-   删除 `.cookies` 文件夹,再次运行 node index.js 命令
+   删除 `.cookies` 文件夹,再次运行 node index.js 命令.
